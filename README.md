@@ -8,6 +8,8 @@ Software: Python 3.6.1, Visual Studio Code 1.38.1
 
 ## Results
 The table below shows the five-number summary for both June and December
+![alt text](https://github.com/bmoazen/Surfs_Up/blob/main/June%20and%20Dec%20Table.png?raw=true)<br />
+<br />
 Shown below are box plots of temperatures for the months of June and December.<br />
 ![alt text](https://github.com/bmoazen/Surfs_Up/blob/main/June%20and%20Dec%20Temps.png?raw=true)<br />
  
