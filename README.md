@@ -3,8 +3,8 @@
 We were tasked with using SQLite to analyze weather data from several stations in Oahu, Hawaii in order to make informed recommendations involving the sustainability of a proposed surf and ice cream shop.  We specifically looked at data from the months of June and December.
 
 ## Resources
-Data Source: hawaii.sqlite
-Software: Python 3.6.1, Visual Studio Code 1.38.1
+Data Source: hawaii.sqlite<br />
+Software: Python 3.6.1, Visual Studio Code 1.38.1<br />
 
 ## Results
 The table below shows the five-number summary for both June and December
